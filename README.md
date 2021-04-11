@@ -1,3 +1,1 @@
-# Cyberspace
-
-vammerlo's page in the cyberspace
+# My page on the internetz

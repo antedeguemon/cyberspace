@@ -28,7 +28,7 @@ defmodule Cyberspace.Social do
       %Item{
         service: "Public PGP key",
         username: "here",
-        url: "pgp.txt"
+        url: "stuff/pgp.txt"
       }
     ]
   end

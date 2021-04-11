@@ -3,7 +3,7 @@ defmodule Cyberspace.About do
 
   def build do
     %__MODULE__{
-      title: "vammerlo's page in the cyberspace",
+      title: "vammerlo's page on the cyberspace",
       description: [
         "Ohayo! I am a computer science student at UFRGS. My main interests are functional programming and distributed systems.<br>",
         "Apart from computers I am into Pepsi, Rubik's cubes and dogs (<a href=\"assets/better_tesla_pic.jpg\">here</a> is a pic of my dog, Tesla)."
