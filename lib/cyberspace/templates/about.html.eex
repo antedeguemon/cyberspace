@@ -1,0 +1,5 @@
+<h2><%= about.title %></h2>
+<%= for line <- about.description do %>
+<p><%= line %></p>
+<% end %>
+<%= about.extra %>

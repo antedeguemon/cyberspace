@@ -1,0 +1,13 @@
+body {
+  font-family: "EB Garamond", serif;
+  background: beige;
+  color: #000;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#poem {
+  display: inline-block;
+  text-align: left;
+  padding: 5px;
+}

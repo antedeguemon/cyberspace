@@ -1,0 +1,21 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: #F5F5DC;
+  color: #000;
+  font-size: 1em;
+  padding: 1em;
+}
+
+a {
+  color: #001f3f;
+  text-decoration: underline;
+}
+
+ul li {
+  padding: 3px;
+}
+
+.date {
+  color: #000;
+  font-weight: bold;
+}

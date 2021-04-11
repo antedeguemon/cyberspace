@@ -1,0 +1,6 @@
+<h3>Social:</h3>
+<ul>
+<%= for item <- items do %>
+  <li><%= item.service %>: <a href="<%= item.url %>"><%= item.username %></a></li>
+<% end %>
+</ul>
