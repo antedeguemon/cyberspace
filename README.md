@@ -1,3 +1,3 @@
 # Cyberspace
 
-vammerlo's page in the cyberspace static site generator
+vammerlo's page in the cyberspace
