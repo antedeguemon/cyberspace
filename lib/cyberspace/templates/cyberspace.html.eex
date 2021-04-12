@@ -21,7 +21,7 @@
   <footer>
     <p>
       Last updated <%= Date.utc_today() |> Calendar.strftime("%B %d %Y") %> before robots.
-      Source code avaiable <a href="https://github.com/antedeguemon/antedeguemon.github.io">here</a>.
+      Source code available <a href="https://github.com/antedeguemon/antedeguemon.github.io">here</a>.
     </p>
   </footer>
 </body>
