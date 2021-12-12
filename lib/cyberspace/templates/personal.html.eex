@@ -1,6 +1,0 @@
-<h3>Personal:</h3>
-<ul>
-<%= for item <- items do %>
-  <li><a href="<%= item.url %>"><%= item.title %></a></li>
-<% end %>
-</ul>
